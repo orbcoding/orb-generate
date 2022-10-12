@@ -1,2 +1,2 @@
-# orb-cli-namespace-generate
+# orb-namespace-generate
 orb cli generator namespace
